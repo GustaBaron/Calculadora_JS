@@ -11,7 +11,7 @@ Este projeto é uma **calculadora simples** desenvolvida com **HTML**, **CSS** e
 
 ## Tecnologias Utilizadas
 
-- HTML*: Estrutura da página e dos elementos da calculadora.
+- HTML: Estrutura da página e dos elementos da calculadora.
 - CSS: Estilos visuais da calculadora (cores, fontes, tamanhos, etc.).
 - JavaScript: Lógica para realizar as operações matemáticas e interação com os elementos da página.
 
